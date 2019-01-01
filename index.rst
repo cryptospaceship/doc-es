@@ -1,5 +1,5 @@
-Contenidos
-==========
+Contenido
+=========
 
 .. image:: intro.png
     :width: 700px
