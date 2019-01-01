@@ -6,10 +6,10 @@ Contenido
     :alt: CryptoSpaceShip
     :align: center
 
-.. hint::
+.. note::
     **Url del Juego**: https://cryptospaceship.io/
     
-    **Traduccion en ingles**: https://cryptospaceship.readthedocs.io/en/latest/
+    **English Documentation**: https://cryptospaceship.readthedocs.io/en/latest/
 
 
 .. toctree::
