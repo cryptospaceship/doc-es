@@ -19,6 +19,7 @@ Contenido
    centro-de-mando.rst
    modos-de-juego.rst
    el-juego-en-la-blockchain.rst
+   blockchain.rst
    
 
    
