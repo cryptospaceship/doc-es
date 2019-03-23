@@ -21,7 +21,7 @@ Cada transaccion representa un cambio de estado que se escribe en esta base de d
 Mineros y transaccion
 *********************
 
-Se suele llamar mineros a aquellas BLa que se encargan incluir en el bloque las transacciones validas y ir extendiendo la **Cadena de bloques**. Estos mineros resuelven complicadas operaciones matematicas hasta encontrar un numero valido llamado hash de bloque. Este hash de bloque es extremadamente dificil de calcular pero muy facil de verificar. El incentivo que tienen estos mineros para poder 
+Se suele llamar mineros a aquellas "granjas de servidores" que se encargan incluir en el bloque las transacciones validas y ir extendiendo la **Cadena de bloques**. Estos mineros resuelven complicadas operaciones matematicas hasta encontrar un numero valido llamado hash de bloque. Este hash de bloque es extremadamente dificil de calcular pero muy facil de verificar. El incentivo que tienen estos mineros para poder 
 realizar este trabajo es la posibilidad de crear **criptomonedas** al hayar un hash de bloque valido y ademas quedarse con las comiciones de todas las transacciones.
 
 ***********************
@@ -34,6 +34,7 @@ Juegos en Blockchain
 **********************
 
 Como se comento ateriormente, para poder jugar es necesario poder cambiar estados, esto se logra enviando transacciones que modifican los valores en esta base de datos llamada **Cadena de Bloques**. Entonoces para que estas transacciones se ejecuten es necesario pagar la comision.
-Dicho todo esto, es necesario contar con Gas, Combustible o como es comunmente llamado cryptomonedas. Luego un mecanismo por
+Dicho todo esto, es necesario contar con Gas, el combustible, o como es comunmente llamado cryptomonedas. 
 
-
+Para jugar a CryptoSpaceShip es necesario contar con una CSS Token y Gas de la cadena de bloques donde se quiera jugar. Para poder interactuar con el juego es necesario contar con una billetera con los fondos suficientes. Esa billetera se llama **Metamask** (https://metamask.io/) y permite interactuar con el juego, es decir, para cada accion que se requiera sobre el juego, necesario autorizar en Metamask la accion y el gasto de combustible necesario para llevar a cabo la accion.
+ 
